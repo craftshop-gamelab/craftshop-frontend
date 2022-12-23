@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150550206983",
+    "project_id": "craftshop-d435a",
+    "storage_bucket": "craftshop-d435a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150550206983:android:7f8b7e6b6f0f7a44a7e8a2",
+        "android_client_info": {
+          "package_name": "com.koyeul.craftshop_indonesia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150550206983-lo59m67222q0gfdfqd57c0nl9kjccknj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPmBDIkKQL6ioRLVRBRoc6UTpH8IhpHps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150550206983-lo59m67222q0gfdfqd57c0nl9kjccknj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
